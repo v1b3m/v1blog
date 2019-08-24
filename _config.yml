@@ -12,6 +12,6 @@ theme: minima
 
 defaults:
     - scope:
-      path: 'assets/img'
-    values:
-      image: true
+          path: 'assets/img'
+      values:
+          image: true
