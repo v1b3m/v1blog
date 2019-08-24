@@ -9,3 +9,9 @@ github_username: v1b3m
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+defaults:
+    - scope:
+      path: 'assets/img'
+    values:
+      image: true
