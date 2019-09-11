@@ -8,7 +8,7 @@ twitter_username: BenjaMayanja
 github_username: v1b3m
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-cayman
 
 defaults:
     - scope:
